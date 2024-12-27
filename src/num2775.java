@@ -23,7 +23,7 @@ public class num2775 {
         for (int i = 0; i < T; i++) {
             int K = Integer.parseInt(br.readLine());
             int N = Integer.parseInt(br.readLine());
-            sb.append(array[K][N] + "\n");
+            sb.append(array[K][N]).append("\n");
         }
         System.out.println(sb);
     }
