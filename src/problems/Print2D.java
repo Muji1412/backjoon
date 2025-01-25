@@ -1,5 +1,3 @@
-package problems;
-
 public class Print2D {
 
     public static void print2DArray(int[][] arr) {
