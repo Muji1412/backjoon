@@ -48,8 +48,8 @@ public class num14940 {
         // 2. 원래 갈 수 없는 땅인 부분은 0 출력
         // 3. 갈 수는 있지만, 탐색으로 갈 수 없는 부분은 -1 출력
 
-        Print2D p2 = new Print2D();
-        p2.print2DArray(arr);
+//        Print2D p2 = new Print2D();
+//        p2.print2DArray(arr);
 
 
 

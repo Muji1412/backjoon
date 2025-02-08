@@ -4,6 +4,8 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/Baekjoon Online Judge/케빈 베이컨의 6단계 법칙" />
+      <excludeFolder url="file://$MODULE_DIR$/num1389/케빈 베이컨의 6단계 법칙" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
